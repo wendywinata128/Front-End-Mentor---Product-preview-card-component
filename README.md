@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![My Design Preview of The Challenge](./design/preview.jpg)
+![My Design Preview of The Challenge](./design/preview.png)
 
 ### Links
 
