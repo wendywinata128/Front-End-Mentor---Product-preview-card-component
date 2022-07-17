@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/wendywinata128/Front-End-Mentor_Responsive-Product-Preview-Card-Component]
-- Live Site URL: [https://wendywinata128.github.io/Front-End-Mentor_Responsive-Product-Preview-Card-Component/]
+- Solution URL: [Github Repo](https://github.com/wendywinata128/Front-End-Mentor_Responsive-Product-Preview-Card-Component)
+- Live Site URL: [Github Pages](https://wendywinata128.github.io/Front-End-Mentor_Responsive-Product-Preview-Card-Component/)
 
 ## My process
 
